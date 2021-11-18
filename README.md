@@ -1,2 +1,2 @@
 # mnist
-A homework
+A deep learning homework.
